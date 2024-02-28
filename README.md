@@ -1,5 +1,5 @@
 
-# E-Commerce Purchase Probability Prediction
+# E-Commerce Purchase Propensity Modelling
 
 ## Background
 Our client, an early-stage e-commerce company, offers a wide range of products from daily essentials to high-end electronics. Despite a high volume of traffic, the conversion rate from browsing to purchasing remains low. To address this, the client aims to implement a targeted discount campaign but has limited funds. Therefore, they seek to predict the purchase probability of each user to optimize the allocation of discounts and coupons.
