@@ -5,7 +5,7 @@
 An early-stage e-commerce company, offering a wide range of products from daily essentials to high-end electronics. Despite a high volume of traffic, the conversion rate from browsing to purchasing remains low. To address this, the client aims to implement a targeted discount campaign but has limited funds. Therefore, they seek to predict the purchase probability of each user to optimize the allocation of discounts and coupons.
 
 ## Primary Objective
-- Build a model that predicts the purchase probability of each user, enabling targeted discount campaigns.
+- Build a model that predicts the purchase propensity of each user, enabling targeted discount campaigns.
 
 ## Achievements
 - **RFM Analysis**: Conducted a detailed RFM (Recency, Frequency, Monetary) analysis to segment users based on their purchase behaviour.
